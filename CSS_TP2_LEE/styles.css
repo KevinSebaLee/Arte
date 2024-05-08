@@ -1,0 +1,23 @@
+*{
+    border: 1px solid black;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+header{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+
+.DefYerba{
+    font-style: italic;
+}
+
