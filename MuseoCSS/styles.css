@@ -1,0 +1,47 @@
+*{
+    margin: 10px;
+    /*border: 1px solid black;*/
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+header img{
+    float: left;
+}
+
+header nav ul li a{
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+}
+
+header nav ul li{
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+}
+
+header h1{
+    text-align: center;
+    clear: both;
+}
+
+section img{
+    width: 50%;
+    height: 70%;
+}
+
+footer{
+    margin: 0px;
+    background-color: black;
+}
+
+footer h2, footer p{
+    color: bisque;
+}
